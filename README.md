@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mayank Kumar Jha
-- 🏫 Sophomore at IIIT Allahabad, Information Technology-Business Informatics branch.
+<!-- 👋 Hi, I’m Mayank Kumar Jha
+- 🏫 Sophomore at IIIT Allahabad, Information Technology-Business Informatics branch.-->
 - 👀 I’m interested in bulding solutions to real life problems.
 - 🌱 I’m currently learning Web Development (HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase), Data Structures & Algorithm(C,C++), Machine Learning using Python.
 - 💞️ I’m looking to collaborate on projects on MERN tech stack or Machine Learning based Full Stack projects.
